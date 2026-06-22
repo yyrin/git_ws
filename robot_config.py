@@ -1,1 +1,1 @@
-motor_speed = 50
+motor_speed = 100
